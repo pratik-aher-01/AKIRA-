@@ -1,0 +1,7 @@
+# Text Chunking Settings
+CHUNK_SIZE = 600
+CHUNK_OVERLAP = 100
+
+# RAG Settings
+TOP_K = 5
+MAX_CONTEXT_TOKENS = 3000
