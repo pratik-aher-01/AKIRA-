@@ -1,0 +1,22 @@
+.shinyText {
+  position: relative;
+  display: inline-block;
+  color: inherit;
+}
+
+.baseText {
+  color: inherit;
+}
+
+.shineLayer {
+  position: absolute;
+  inset: 0;
+  display: inline-block;
+  pointer-events: none;
+  background-repeat: no-repeat;
+  will-change: background-position;
+  color: transparent;
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+}
