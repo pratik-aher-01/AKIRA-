@@ -153,12 +153,6 @@ Getting a full RAG stack (embeddings + vector DB + transformer model) to run ins
 
 ---
 
-## 📄 License
-
-*(Add your license here — MIT, Apache 2.0, etc.)*
-
----
-
 ## 🙏 Acknowledgments
 
 Built as part of exploring practical RAG system design — from retrieval architecture down to the realities of shipping ML workloads on constrained infrastructure.
